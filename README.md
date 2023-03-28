@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Cartoon.
+
+![Image of me.](https://cloud-1ntvbhx51-hack-club-bot.vercel.app/0github-banner.png)
+
+## A normal 16 year's old kids studying 2nd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
+
+<div style="text-align:center">
+  <img src="https://assets.hackclub.com/icon-rounded.svg" alt="Hack Club Logo." width="75" height="50">
+  <p>Member of Hack Club since October 2022.</p>
+</div>
 
 <!--
 **toonnongaeoy/toonnongaeoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
