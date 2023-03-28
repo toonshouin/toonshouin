@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Cartoon.
 
-![Image of me.](https://cloud-1ntvbhx51-hack-club-bot.vercel.app/0github-banner.png)
+![Image of myself.](https://github.com/toonnongaeoy/toonnongaeoy/raw/main/pictures/github-banner.png)
 
 ## A normal 16 year's old kids studying 2nd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
 <br>
