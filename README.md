@@ -14,7 +14,8 @@
 <br>
 <p align="center">
 <img src="https://assets.hackclub.com/icon-rounded.svg" align="middle" width="50" height="50">&nbsp;&nbsp; Member of Hack Club since October 2022.</img>
-
+<br>
+<br>
 <a href="https://github.com/toonnongaeoy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=toonnongaeoy&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
 </a><a href="https://github.com/toonnongaeoy">
