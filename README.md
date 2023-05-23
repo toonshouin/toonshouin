@@ -16,9 +16,9 @@
 <br>
 <br>
 <a href="https://github.com/toonnongaeoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toonnongaeoy&theme=github_dark" alt="ToonNongAoey's GitHub Stats" height="230"/>
+  <img align="center" src="https://github-stats-gxjeei69i-toonnongaeoy.vercel.app/api?username=toonnongaeoy&theme=github_dark" alt="ToonNongAoey's GitHub Stats" height="230"/>
 </a><a href="https://github.com/toonnongaeoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonnongaeoy&theme=github_dark" height="230"/>
+  <img align="center" src="https://github-stats-gxjeei69i-toonnongaeoy.vercel.app/api/top-langs/?username=toonnongaeoy&theme=github_dark" height="230"/>
 </a>
 </p>
 <p align="center"> 
