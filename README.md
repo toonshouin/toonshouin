@@ -37,3 +37,7 @@ Social
 
 <a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Using only HTML & CSS and It's also on <a href="https://github.com/toonnongaeoy/my-linktree">Github</a>.)
 </p>
+
+<!---
+Credit and Inspired by Nattawatt Hongthong (https://github.com/RealNattawattHongthong) and ChokunPlayZ (https://github.com/ChokunPlayZ).
+-->
