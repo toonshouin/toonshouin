@@ -4,7 +4,7 @@
 
 ## A normal 16 year's old kids studying 2nd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
 
 ### Languages 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -23,9 +23,7 @@
   <img align="center" src="https://github-stats.toonstorytime.me/api/top-langs/?username=toonnongaeoy&theme=github_dark" height="230"/>
 </a>
 <br>
-</a><a href="https://discord.com/users/409324079326167043">
-  <img align="center" src="https://lanyard.cnrad.dev/api/409324079326167043" height="230"/>
-</a>
+
 </p>
 <p align="center"> 
 Social
@@ -43,6 +41,10 @@ Social
 
 <a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Using only HTML & CSS and It's also on <a href="https://github.com/toonnongaeoy/my-linktree">Github</a>.)
 </p>
+
+---
+ 
+<sub>🤫 Psst! You can see some easter egg if you know how to convert this thing back into code <3.</sub>
 
 <!---
 Credit and Inspired by Nattawatt Hongthong (https://github.com/RealNattawattHongthong) and ChokunPlayZ (https://github.com/ChokunPlayZ).
