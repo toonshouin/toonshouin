@@ -18,9 +18,9 @@
 <br>
 <br>
 <a href="https://github.com/toonnongaeoy">
-  <img align="center" src="https://github-stats.toonstorytime.me/api?username=toonnongaeoy&theme=github_dark" alt="ToonNongAoey's GitHub Stats" height="230"/>
+  <img align="center" src="https://github-stats.toonstorytime.me/api?username=toonnongaeoy&theme=rose_pine" alt="ToonNongAoey's GitHub Stats" height="230"/>
 </a><a href="https://github.com/toonnongaeoy">
-  <img align="center" src="https://github-stats.toonstorytime.me/api/top-langs/?username=toonnongaeoy&theme=github_dark" height="230"/>
+  <img align="center" src="https://github-stats.toonstorytime.me/api/top-langs/?username=toonnongaeoy&theme=rose_pine" height="230"/>
 </a>
 <br>
 
@@ -48,4 +48,7 @@ Social
 
 <!---
 Credit and Inspired by Nattawatt Hongthong (https://github.com/RealNattawattHongthong) and ChokunPlayZ (https://github.com/ChokunPlayZ).
+And also, There are some PGP Signed Notes here. You can try to verify it yourself in your computer and Online at https://pgptool.org/
+
+I also include public key for you, So try it.
 -->
