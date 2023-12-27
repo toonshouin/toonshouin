@@ -2,7 +2,7 @@
 
 ![Image of myself.](https://github.com/toonnongaeoy/toonnongaeoy/raw/main/pictures/github-banner.png)
 
-## A normal 16 year's old kids studying 2nd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
+## A normal 17 year's old kids studying 2nd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
 
