@@ -2,7 +2,7 @@
 
 ![Meme from Azure & Python Dev Day.](https://github.com/toonnongaeoy/toonnongaeoy/raw/main/pictures/PyAzureBanner.png)
 
-## A normal 17 year's old kids studying 2nd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
+## A normal 17 year's old kids studying 3rd Year of Vocational Colleage at Dusit Commercial College Nonthaburi and live in Thailand.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
 
