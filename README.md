@@ -1,7 +1,7 @@
 ![ToonOeichi's Banner](pictures/github-banner.png)
 <hr>
 <h1 align="center">Hi there 👋 I'm ToonOeichi.</h1>
-<p align="center">A normal 18 year's old kids finished 3rd Year of Vocational Colleage at <a href="https://dusitnon.ac.th">Dusit Commercial College Nonthaburi</a> and live in Thailand.</p>
+<p align="center">A normal 18 year's old kids starting Higher Vocational Certificate at <a href="https://www3.pongsawadi.ac.th/psc2023/">Pongsawadi Technological College</a> and live in Thailand.</p>
 
 <hr>
 <h1 align="center">Stats</h1>
@@ -127,14 +127,16 @@ Member of Hack Club since October 2022.
         </p>
 
 <p align="center">
-<a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Using only HTML & CSS and It's also on <a href="https://github.com/toonoeichi/my-linktree">Github</a>.)
+<a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Now in Svelve with TailwindCSS & DaisyUI, Avaliable on <a href="https://github.com/toonoeichi/my-linktree">Github</a>.)
 </p>
 
 ---
-###### Eichi Picture by [@hanakiiii14](https://www.instagram.com/hanakiiii14/) | *There maybe something hidden if you know how to find it.*
+###### Eichi Picture by [@hanakiiii14](https://www.instagram.com/hanakiiii14/) | *There maybe something hidden if you know how to find it.* | v2 since 18/04/2025
 
 <!---
-Credit and Inspired by Nattawatt Hongthong (https://github.com/RealNattawattHongthong) and ChokunPlayZ (https://github.com/ChokunPlayZ).
+Credit and Inspired
+v1 : Nattawatt Hongthong (https://github.com/RealNattawattHongthong) and ChokunPlayZ (https://github.com/ChokunPlayZ).
+v2 : Improved layout and theme by ToonOeichi (https://github.com/toonoeichi) ! Feel free to copy but please don't remove this part!
 
-And also, PGP Signed Notes will be moved soon! but you can still try to verify it yourself in your computer and Online at https://pgptool.org/ (also, I will change key soon!)
+And also, PGP Signed Notes will be moved soon! but you can still try to verify it yourself in your computer or Online at https://pgptool.org/ (also, I will change key soon!)
 -->
