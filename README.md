@@ -8,15 +8,15 @@
 > [!WARNING]
 > All website (or services) are going to move to [toonshou.in](https://toonshou.in) and deprecated [toonstorytime.me](https://toonstorytime.me) on 11th November 2025
 > 
-> Please change any link for any service to the new based on this [issues](https://github.com/toonoeichi/site-status/issues/539)! (https://github.com/toonoeichi/site-status/issues/539)
+> Please change any link for any service to the new based on this [issues](https://github.com/toonshouin/site-status/issues/539)! (https://github.com/toonoeichi/site-status/issues/539)
 
 <h1 align="center">Stats</h1>
 
 [![Discord Stats!](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
 
 <a href="https://github.com/toonoeichi">
-  <img align="center" src="https://github-stats.toonstorytime.me/api?username=toonoeichi&show_icons=true&theme=rose_pine" alt="ToonOeichi's GitHub Stats" height="230"/>
-  <img align="center" src="https://github-stats.toonstorytime.me/api/top-langs/?username=toonoeichi&theme=rose_pine" alt="ToonOeichi's GitHub Stats" height="230"/>
+  <img align="center" src="https://github-stats.toonstorytime.me/api?username=toonshouin&show_icons=true&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
+  <img align="center" src="https://github-stats.toonstorytime.me/api/top-langs/?username=toonshouin&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
 </a>
 <hr>
 <h1 align="center">Languages and Tools</h1>
@@ -133,7 +133,7 @@ Member of Hack Club since October 2022.
         </p>
 
 <p align="center">
-<a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Now in Svelve with TailwindCSS & DaisyUI, Avaliable on <a href="https://github.com/toonoeichi/my-linktree">Github</a>.)
+<a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Now in Svelve with TailwindCSS & DaisyUI, Avaliable on <a href="https://github.com/toonshouin/my-linktree">Github</a>.)
 </p>
 
 ---
