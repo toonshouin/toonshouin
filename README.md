@@ -1,9 +1,15 @@
-![ToonOeichi's Banner](pictures/github-banner.png)
+![Toonshouin's Banner](pictures/github-banner.png)
 <hr>
-<h1 align="center">Hi there 👋 I'm ToonOeichi.</h1>
-<p align="center">A normal 18 year's old kids starting Higher Vocational Certificate at <a href="https://www3.pongsawadi.ac.th/psc2023/">Pongsawadi Technological College</a> and live in Thailand.</p>
+<h1 align="center">Hi there 👋 I'm Toonshouin!</h1>
+<p align="center">A 18 year's old kids that (kinda) into Ensemble Stars (Anime) and also into Web Development, Currently a Higher Vocational Certificate Student at <a href="https://www3.pongsawadi.ac.th/psc2023/">Pongsawadi Technological College</a> in Thailand.</p>
 
 <hr>
+
+> [!WARNING]
+> All website (or services) are going to move to [toonshou.in](https://toonshou.in) and deprecated [toonstorytime.me](https://toonstorytime.me) on 11th November 2025
+> 
+> Please change any link for any service to the new based on this [issues](https://github.com/toonoeichi/site-status/issues/539)! (https://github.com/toonoeichi/site-status/issues/539)
+
 <h1 align="center">Stats</h1>
 
 [![Discord Stats!](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
@@ -103,16 +109,16 @@ Member of Hack Club since October 2022.
             <a href="https://www.reddit.com/user/toonoeichi/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/pheralb/svgl/refs/heads/main/static/library/reddit.svg" alt="reddit" width="40" height="40" />
             </a>
-            <a href="https://x.com/toonoeichi" target="_blank" rel="noreferrer">
+            <a href="https://x.com/toonshouin" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/refs/heads/master/Social%20media/Flat%20-%20circular/svg/twitter.svg" alt="twitter" width="40" height="40" />
             </a>
-            <a href="https://fb.com/toonoeichi" target="_blank" rel="noreferrer">
+            <a href="https://fb.com/toonshouin" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/facebook.svg" alt="facebook" width="40" height="40" />
             </a>
-            <a href="https://www.instagram.com/toonoeichi" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/toonshouin" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/instagram.svg" alt="instagram" width="40" height="40" />
             </a>
-            <a href="https://www.threads.net/@toonoeichi" target="_blank" rel="noreferrer">
+            <a href="https://www.threads.net/@toonshouin" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/threads.svg" alt="threads" width="40" height="40" />
             </a>
             <a href="https://youtube.com/@toonstorytime" target="_blank" rel="noreferrer">
@@ -136,7 +142,7 @@ Member of Hack Club since October 2022.
 <!---
 Credit and Inspired
 v1 : Nattawatt Hongthong (https://github.com/RealNattawattHongthong) and ChokunPlayZ (https://github.com/ChokunPlayZ).
-v2 : Improved layout and theme by ToonOeichi (https://github.com/toonoeichi) ! Feel free to copy but please don't remove this part!
+v2 : Improved layout and theme by ToonOeichi (https://github.com/toonshouin) ! Feel free to copy but please don't remove this part!
 
 And also, PGP Signed Notes will be moved soon! but you can still try to verify it yourself in your computer or Online at https://pgptool.org/ (also, I will change key soon!)
 -->
