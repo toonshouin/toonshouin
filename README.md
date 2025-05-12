@@ -15,8 +15,8 @@
 [![Discord Stats!](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
 
 <a href="https://github.com/toonoeichi">
-  <img align="center" src="https://github-stats.toonstorytime.me/api?username=toonshouin&show_icons=true&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
-  <img align="center" src="https://github-stats.toonstorytime.me/api/top-langs/?username=toonshouin&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
+  <img align="center" src="https://ghstats.toonshou.in/api?username=toonshouin&show_icons=true&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
+  <img align="center" src="https://ghstats.toonshou.in/api/top-langs/?username=toonshouin&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
 </a>
 <hr>
 <h1 align="center">Languages and Tools</h1>
