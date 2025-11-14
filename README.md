@@ -14,7 +14,7 @@
 
 [![Discord Stats!](https://lanyard.cnrad.dev/api/409324079326167043)](https://discord.com/users/409324079326167043)
 
-<a href="https://github.com/toonoeichi">
+<a href="https://github.com/toonshouin">
   <img align="center" src="https://ghstats.toonshou.in/api?username=toonshouin&show_icons=true&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
   <img align="center" src="https://ghstats.toonshou.in/api/top-langs/?username=toonshouin&theme=rose_pine" alt="Toonshouin's GitHub Stats" height="230"/>
 </a>
@@ -133,7 +133,7 @@ Member of Hack Club since October 2022.
         </p>
 
 <p align="center">
-<a href="https://tree.toonstorytime.me">Click here to my linktree</a> (Now in Svelve with TailwindCSS & DaisyUI, Avaliable on <a href="https://github.com/toonshouin/my-linktree">Github</a>.)
+<a href="https://card.toonshou.in">Click here to my linktree</a> (Now in Svelve with TailwindCSS & DaisyUI, Avaliable on <a href="https://github.com/toonshouin/my-linktree">Github</a>.)
 </p>
 
 ---
